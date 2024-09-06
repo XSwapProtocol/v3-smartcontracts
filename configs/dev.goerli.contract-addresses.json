@@ -1,0 +1,25 @@
+{
+    "goerli": {
+        "pairInitCodeHash": "0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
+        "poolInitCodeHash": "0x5dd58a93fdeafe39e58b1d19292aedf0a05b1a169b309c0d211599ead298fe23",
+        "nativeCurrencyLabelBytes": "0x4554480000000000000000000000000000000000000000000000000000000000",
+        "weth": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6", 
+        "xSwapV2Factory": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
+        "xSwapV3Factory": "0x5cC60dd4f07206a7994885572237d2467acbB5C2",
+        "nftDescriptor": "0x1a9908822ad4fD7E6f2e76c6c3d6bd86701A186c",
+        "nonfungiblePositionDescriptor": "0x5951645eD7221dE2bb70a97c5bA54E3942FDaC7e",
+        "nonfungiblePositionManager": "0x4b722F4a38F97E4078260DE0C47F34Ae0c404DbF",
+        "swapRouter": "0x17DF9287637Dc4BD0a79e36DfA98AD0eDB99966D",
+        "quoterV2": "0xeF53145eAA955F0b7749a80315De815e383540FB",
+        "tickLens": "0xF82Ff20aD77C9F97A996AE9235234D7CCA8f658C",
+        "xswapInterfaceMulticall": "0xb9137A4295f27d8c7F4aF425EF51Db71aDe85dc9",
+        "quoter": "0xD250CE126b330F66d07BfBba51b5F28fE278f1d2",
+        "mixedRouteQuoterV1": "0x801FC6256c84cABC48a1b4Df845eB8D5178b69a7",
+        "tokenValidator": "0x569235141cEE68F9DBC0478a66dD741574C46043",
+        "swapRouter02": "0xeA9dd540533463bDfdCf659b44344cF189C9B7e7",
+        "permit2": "0x30776F7DB2c0c3d9F0Dbf402979F8Dc588de009e",
+        "unsupportedContract": "0x9985Df95b9c8cDC72f9b084dF46255c53322FAc6",
+        "universalRouter": "0x27Daf3f78fCdE43E40E4F3F144FEbc856f7352F8",
+        "v3Migrator": "0x0C5f9A18eaf1d6E52789B5FbF397e71969D0B350"
+    }
+}

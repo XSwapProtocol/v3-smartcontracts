@@ -1,0 +1,27 @@
+{
+    "test_xdc": {
+        "nativeCurrencyLabelBytes": "0x5844430000000000000000000000000000000000000000000000000000000000",
+        "pairInitCodeHash": "0x49d4a9f22dc2d1b9235b28fa91cd830a3dcadb8771a6c0393d88d7d2d07d896d",
+        "poolInitCodeHash": "0x5dd58a93fdeafe39e58b1d19292aedf0a05b1a169b309c0d211599ead298fe23",
+        "//Comment: about weth address below": "It's actually wxdc address but set to weth to synchronize between code & script",
+        "weth": "0x2a5c77b016Df1b3b0AE4E79a68F8adF64Ee741ba", 
+        "xSwapV2Factory": "0xCae66ac135d6489BDF5619Ae8F8f1e724765eb8f",
+        "xSwapV3Factory": "0x09597f60e2250a6c562c77c4de917e555d1b4a09",
+        "xSwapTreasury": "0x8c36e4eb12899835b205b331cd3c0c58addd653d",
+        "nftDescriptor": "0x637747d23043e74707f2940376d8c80c7e883bb1",
+        "nonfungiblePositionDescriptor": "0x943535750f6ab1b38bf37192605181fffe3f13b0",
+        "nonfungiblePositionManager": "0x1b607759e0fbd4e76e4b7a05547da8d6665619d9",
+        "swapRouter": "0xae8c4f5a9efc3cefc783ba66332edc8755bc039e",
+        "quoterV2": "0xab83088144b228b9eaf1e085581e630715e266dc",
+        "tickLens": "0xf45ce6837d65992852c3de38615b731b71066c81",
+        "xswapInterfaceMulticall": "0x643a5435458baf6c6c95c41037370b039e787761",
+        "quoter": "0x48cb4cc715edc990db18178d8b81e5fd4ee5bdf8",
+        "mixedRouteQuoterV1": "0x03533670ac06b3a4c2184fb71f6ce9241ae29732",
+        "tokenValidator": "0x13e9fa07ebf6d019b5be08b3c450facaa6dd1afe",
+        "swapRouter02": "0x0bc9071d104cc95b26f6440b44b8408fd7ff9274",
+        "permit2": "0x0e328ed57e4ec8f490a5ab4b470dc866a0c9110e",
+        "unsupportedContract": "0x2c063a57af115b5097bdfdd13576f70de9f9ee5e",
+        "universalRouter": "0x2c93805a755a5fcad54666cd3cc780e32260427f",
+        "v3Migrator": "0x1f1a26b7a2e4d09cb529a2c5fec56b8d91ae8e4f"
+    }
+}
